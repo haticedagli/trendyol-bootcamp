@@ -1,1 +1,1 @@
-# trendyol-bootcamp
+# trendyol-backend-developer-bootcamp
